@@ -1,6 +1,5 @@
 # Reproducible Research: Peer Assessment 1
 
-<<<<<<< HEAD
 ## Loading libraries
 
 ```r
@@ -160,23 +159,3 @@ plot(as.integer(names(avg_step_weekend)), avg_step_weekend, type = "l", main = "
 
 ![plot of chunk unnamed-chunk-6](figure/unnamed-chunk-6.png) 
 
-=======
-
-## Loading and preprocessing the data
-
-
-
-## What is mean total number of steps taken per day?
-
-
-
-## What is the average daily activity pattern?
-
-
-
-## Imputing missing values
-
-
-
-## Are there differences in activity patterns between weekdays and weekends?
->>>>>>> origin/master
